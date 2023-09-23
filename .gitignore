@@ -1,1 +1,6 @@
 joined_news_long_texts_udpipe_8796201_293713268.txt
+udpipe_syntagrus.model
+lightning_logs
+.ipynb_checkpoints
+trained_models 
+*/__pycache__
