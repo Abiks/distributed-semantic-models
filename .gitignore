@@ -4,3 +4,6 @@ lightning_logs
 .ipynb_checkpoints
 trained_models 
 */__pycache__
+Wikinews
+vocab.txt 
+joined_news_long_texts_udpipe_short_8796201_293713268.txt
