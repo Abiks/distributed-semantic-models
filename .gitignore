@@ -7,3 +7,4 @@ trained_models
 Wikinews
 vocab.txt 
 joined_news_long_texts_udpipe_short_8796201_293713268.txt
+elmo_taiga_charcnn.state_dict
